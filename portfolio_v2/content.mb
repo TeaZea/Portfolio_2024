@@ -3,10 +3,6 @@ My name is Stefano, a Procurement Analyst working for a Canadian manufacturing c
 
 I am a proud Canadian with Italian heritage, currently living in Toronto, Ontario with my wife and our two cats. Not only am I a huge tech nerd, but also a pretty big gamer. When I’m not defending Azeroth, I enjoy the company of friends and family, watching the Toronto Maple Leafs lose and just generally going with the flow. Before my wife encouraged me to study software development and analytics full time, I was a radio commercial and imaging producer for 10 years. My job took me all over Ontario - from Timmins, to Sarnia, and Barrie. It was a ton of fun and I met a lot of amazing people, some of whom have become lifelong friends.
 
-I wanted to create this website as a sort of capstone project to everything I've learned and will continue to learn about software development. I'm hoping to showcase projects that I may work on, as well as my resume, while constantly updating the stack with new skills I pick up along the way.
-
-Currently this portoflio is an SPA using Bootstrap, Django and sqlite3; all hosted using AWS Amplify and Route 53 DNS.
-
 ---
 
 EXPERIENCE
@@ -19,4 +15,6 @@ I enjoy all aspects of analytics and software development; and I firmly believe 
 PROJET CARDS
 
 Portoflio Repo
-The repo to this very site! Includes a detailed README.
+I wanted to create this website as a sort of capstone project to everything I've learned and will continue to learn about software development. I'm hoping to showcase projects that I work on, as well as my resume, while constantly updating the stack with new skills and styling I pick up along the way.
+
+Currently this portfolio is an SPA using Bootstrap, Django and sqlite3; all hosted using AWS Amplify and Route 53 DNS.
