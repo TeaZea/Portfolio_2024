@@ -12,5 +12,10 @@
 }
 
 .footer-text {
+    margin-top: 50px;
     font-size: 10px;
+}
+
+.card-spec {
+    margin-top: 20px;
 }
