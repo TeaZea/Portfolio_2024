@@ -11,8 +11,9 @@ def contact(request):
 
             message = form.cleaned_data['message']
             EmailMessage(
-                'Contact Form Submission from {}'.format(name),
+                "Contact Form Submission from {}".format(name),
                 message,
+                'sena.stefano@gmail.com',
                 ['sena.stefano@gmail.com'],
                 [],
                 reply_to=[email]
@@ -23,4 +24,4 @@ def contact(request):
     return render(request, 'contact.html', {'form': form})
 
 def success(request):
-    return HttpResponse('cool, it worked')
+    return render(request, 'success.html')
