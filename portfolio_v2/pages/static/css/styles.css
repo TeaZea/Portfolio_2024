@@ -32,7 +32,15 @@
 
 /* projects */
 
-.card-spec {
-    margin-top: 20px;
+.card-deck {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+}
+  
+.card {
+    flex: 1 0 auto;
 }
 
+
+/* contacts */

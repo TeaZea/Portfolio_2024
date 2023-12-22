@@ -12,13 +12,13 @@
                     <h5 class="card-title">{{ project.title }}</h5>
                     <p class="card-text">{{ project.quick_description }}</p>
                     <a href="{% url 'project_detail' project.pk %}"
-                       class="btn btn-primary">
+                       class="btn btn-dark">
                         Read More
                     </a>
                 </div>
             </div>
         </div>
-        {% endfor %}
+    {% endfor %}
     </div>
 </div>
 
